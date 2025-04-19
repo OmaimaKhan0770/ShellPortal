@@ -1,5 +1,5 @@
 
-# **Educational Portal **
+# Educational Portal 
 
 ## **Overview**
 
