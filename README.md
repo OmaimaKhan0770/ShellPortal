@@ -1,32 +1,27 @@
-Overview
-The Educational Portal is a shell-scripted management system designed to facilitate communication and interaction between teachers and students. 
-This terminal-based system offers secure logins, role-based access control, and basic academic tools such as viewing grades, assigning marks, and calculating CGPA. 
-It’s intended for educational institutions where teachers can manage student records, while students can track their performance.
+**Overview**
+The Educational Portal is a shell-scripted system for communication between teachers and students. It offers:
+Secure logins with role-based access
+Tools for viewing grades, assigning marks, and calculating CGPA
+Easy management of student records for teachers and performance tracking for students
 
+**Features**
+Secure Login: Role-based login for teachers and students
+Student Management: Add students, assign marks, and view records
+Grade & CGPA Calculation: Automatic grade and CGPA calculation
+Password Management: Students can change their passwords
+Role-Based Interfaces: Separate interfaces for teachers and students
+Data Storage: Data stored in text files (store.txt, teacher.txt, student.txt)
 
+**Usage Instructions**
+**For Teachers**
+Login: Log in with your name and password
+Add Student: Add new students with roll numbers, marks, and grades
+Assign Marks: Assign and update student marks
+View Records: View student marks and grades
+Calculate CGPA: Calculate CGPA for students
 
-Features
-Secure Login System: Role-based login for teachers and students.
-Student Management: Teachers can add students, assign marks, and view student records.
-Grade Calculation: Automatically calculates grades based on student marks.
-CGPA Calculation: Provides CGPA based on marks and displays it to students.
-Password Management: Students can change their passwords for security.
-Role-based Interfaces: Different interfaces for teachers and students, providing access to relevant tools.
-Data Storage: All data is stored in text files (store.txt, teacher.txt, student.txt) for easy access and modification.
-
-
-
-Usage Instructions
-For Teachers
-Login: Teachers can log in using their credentials (name and password).
-Add Student: Teachers can add new students to the system with roll numbers, names, marks, and grades.
-Assign/Update Marks: Teachers can assign marks to students and update their grades based on new evaluations.
-View Records: Teachers can view the records of all students, including their marks and grades.
-Calculate CGPA: Teachers can calculate and view the CGPA of students based on their marks.
-
-For Students
-Login: Students can log in using their name and password.
-View Grades: Students can check their grades for different subjects.
-View CGPA: Students can view their CGPA once it's calculated.
-Change Password: Students can change their passwords for security purposes.
-
+**For Students**
+Login: Log in with your name and password
+View Grades: Check your grades
+View CGPA: See your CGPA
+Change Password: Change your password
