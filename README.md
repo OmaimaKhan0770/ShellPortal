@@ -10,7 +10,6 @@ The **Educational Portal** is a shell-scripted system designed to facilitate com
 - Student record management for teachers
 - User-friendly interfaces for both teachers and students
 
----
 
 ## **Features**
 
@@ -21,7 +20,6 @@ The **Educational Portal** is a shell-scripted system designed to facilitate com
 - **Role-Based Interfaces**: Separate user interfaces for teachers and students
 - **Data Storage**: Information stored in text files (`store.txt`, `teacher.txt`, `student.txt`)
 
----
 
 ## **Usage Instructions**
 
